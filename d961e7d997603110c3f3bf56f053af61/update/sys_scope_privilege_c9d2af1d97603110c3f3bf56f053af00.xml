@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Animal Shelter">d961e7d997603110c3f3bf56f053af61</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:31:21</sys_created_on>
+        <sys_id>c9d2af1d97603110c3f3bf56f053af00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysUserList</sys_name>
+        <sys_package display_value="Animal Shelter" source="x_1103428_animal_0">d961e7d997603110c3f3bf56f053af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter">d961e7d997603110c3f3bf56f053af61</sys_scope>
+        <sys_update_name>sys_scope_privilege_c9d2af1d97603110c3f3bf56f053af00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:31:21</sys_updated_on>
+        <target_name>SysUserList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
